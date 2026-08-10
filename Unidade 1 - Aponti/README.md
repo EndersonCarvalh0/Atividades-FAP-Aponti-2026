@@ -1,8 +1,5 @@
 # Compreensão do Negócio: Acidentes em Rodovias Federais
 
-**Autor:** Enderson dos Santos Carvalho  
-**Atividade:** Entrega Final: Documento de Compreensão do Negócio
-
 ## Contexto e Problema
 O projeto aborda os acidentes ocorridos em rodovias federais brasileiras. O documento visa identificar os atributos e as decorrências de cada acidente no trânsito, buscando uma forma de reduzir a frequência deste tipo de ocorrência ao máximo.
 
